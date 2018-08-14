@@ -7,4 +7,5 @@
 *.iml
 out
 gen
-/src/site/
+.gitignore
+src/site/
